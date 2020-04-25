@@ -1,2 +1,2 @@
-# bastiaan
-A webapp of a QR code of Bastiaan's WhatsApp
+# joel
+A webapp of a QR code of Joel's WhatsApp
